@@ -4,6 +4,8 @@ This repository contains the design and firmware for an **Embedded System and Io
 
 
 ![Versatile Component Testing Kit](./Versatile%20Component%20Testing%20Kit.jpg)
+![Circuit Diagram](./circuit%20diagram.jpg)
+
 
 
 
