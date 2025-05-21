@@ -2,6 +2,11 @@
 
 This repository contains the design and firmware for an **Embedded System and IoT-Based Testing Kit**. The kit is built to help users test various components and sensors used in embedded and IoT systems. It integrates hardware modules like sensors, displays, buzzers, and push buttons with cloud-based data monitoring using **ThingSpeak**.
 
+
+![Versatile Component Testing Kit](./Versatile%20Component%20Testing%20Kit.jpg)
+
+
+
 ---
 
 ## 🎯 Project Objectives
