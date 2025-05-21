@@ -8,7 +8,7 @@
 #include <Wire.h>
 
 // WiFi Credentials
-const char* ssid = "WFI SSID";
+const char* ssid = "WIFI SSID";
 const char* password = "PASSWORD";
 
 // ThingSpeak Settings
