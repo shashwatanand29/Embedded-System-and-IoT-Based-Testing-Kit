@@ -66,6 +66,12 @@ Firmware uses HTTP requests to transmit data over Wi-Fi using **ESP8266/ESP32** 
    - Local readings on OLED/7-segment display
    - Live data updates on ThingSpeak
 
+---
+  
+## 📁 Files Included
+
+Individual Codes are uploaded to the root  
+
 
 
 
