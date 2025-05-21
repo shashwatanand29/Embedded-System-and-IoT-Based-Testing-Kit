@@ -86,7 +86,7 @@ Firmware uses HTTP requests to transmit data over Wi-Fi using **ESP8266/ESP32** 
   
 ## 📁 Files Included
 
-Individual Codes are uploaded to the root  
+Individual Codes are uploaded to the root. I have used ESP32 here, so the codes are for the same.  
 
 
 
